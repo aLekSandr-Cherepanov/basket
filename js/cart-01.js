@@ -23,4 +23,4 @@ window.addEventListener('click', function (event) {
     }
 })
 
-//Остановился на 59:55
+//Остановился на 1:00:00
